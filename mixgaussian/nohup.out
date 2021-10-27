@@ -1,0 +1,3 @@
+./mge.sh: línea 1: x#!/usr/bin/octave: No existe el fichero o el directorio
+./mge.sh: línea 2: error sintáctico cerca del elemento inesperado `printf'
+./mge.sh: línea 2: `if (nargin!=7) printf("mge.sh X xl Ks as tr%% dv%% Ds\n"); exit(1);end'
